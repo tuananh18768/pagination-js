@@ -9,7 +9,7 @@ let index = 0;
 let pages = []
 
 const setUI = () => {
-    fetchDataFllower(pages[index])
+    fetchDataFllower(pages)
     displayButton(page, pages, index);
 }
 

@@ -1,0 +1,79 @@
+{
+    "products": [{
+            "name": "nước hoa 1",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "price": "46547",
+            "category_id": 59,
+            "id": "12"
+        },
+        {
+            "name": "nuoc hoa 2",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "price": "5354",
+            "category_id": 85,
+            "id": "13"
+        },
+        {
+            "name": "nuoc hoa 3",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "price": "65854",
+            "category_id": 21,
+            "id": "14"
+        },
+        {
+            "name": "sp1",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "price": "2",
+            "category_id": 25,
+            "id": "15"
+        },
+        {
+            "name": "sp1",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "price": "2",
+            "category_id": 26,
+            "id": "16"
+        }
+    ],
+    "News": [{
+            "id": "17",
+            "name": "Ms. Garett Waelchi",
+            "image": "https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png",
+            "content": "Refined Soft Car"
+        },
+        {
+            "id": "19",
+            "name": "admin",
+            "image": "https://jes.edu.vn/wp-content/uploads/2019/05/68184730.jpg",
+            "content": "đấ"
+        },
+        {
+            "id": "21",
+            "name": "satellaynu",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "content": "sđfs"
+        },
+        {
+            "name": "test",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+            "content": "jkszhvnkjszgnvjmsbs jv",
+            "id": "22"
+        }
+    ],
+    "categorys": [{
+            "id": "1",
+            "name": "Rubie Gleichner PhDqqqqq",
+            "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Miss Lyda Witting DDS68788",
+            "image": "https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png"
+        },
+        {
+            "name": "sp1",
+            "image": "https://1.bp.blogspot.com/-RoOiYu8pweY/YGLZiX0bQ_I/AAAAAAAArE4/4AUbslYlESME_-arrxmvha763Te_jh1kwCNcBGAsYHQ/s0/ff99e81f59e3a9c02ff4f799f35cfc90.jpeg",
+            "id": "3"
+        }
+    ]
+}
